@@ -232,5 +232,15 @@
 			"3D"
 		],
 		"stars": 3
+	},
+	{
+		"name": "Alanzj's Cloudreve",
+		"logo": "blob:https://2025-blog-public-hazel-eight.vercel.app/6a85a962-3f81-4d0a-9698-df1a1335e7a0",
+		"url": "https://alanzj.xyz:5212",
+		"description": "Alanzj的私人网盘",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
 	}
 ]
