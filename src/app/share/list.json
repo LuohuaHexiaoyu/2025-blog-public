@@ -11,7 +11,7 @@
 	},
 	{
 		"name": "Gitea",
-		"logo": "/images/share/4f9522093f9d318e.png",
+		"logo": "blob:https://2025-blog-public-hazel-eight.vercel.app/b1778f18-68d3-475f-97db-8d6808289e70",
 		"url": "https://alanzj.xyz:3000",
 		"description": "Alanzj的代码托管服务",
 		"tags": [
@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "Emby",
-		"logo": "blob:https://2025-blog-public-hazel-eight.vercel.app/72e81dcf-befd-4810-826c-b7dd8109a22f",
+		"logo": "/images/share/c384730184825f9f.webp",
 		"url": "https://alanzj.xyz:8096/web/index.html#!/home",
 		"description": "Alanzj的影音库",
 		"tags": [
