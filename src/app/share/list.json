@@ -11,7 +11,7 @@
 	},
 	{
 		"name": "Gitea",
-		"logo": "blob:https://2025-blog-public-hazel-eight.vercel.app/518bd774-47cc-4a99-abdc-ac7d007f7dd1",
+		"logo": "/images/share/4f9522093f9d318e.png",
 		"url": "https://alanzj.xyz:3000",
 		"description": "Alanzj的代码托管服务",
 		"tags": [
@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "Emby",
-		"logo": "blob:https://2025-blog-public-hazel-eight.vercel.app/72e81dcf-befd-4810-826c-b7dd8109a22f",
+		"logo": "/images/share/c384730184825f9f.webp",
 		"url": "https://alanzj.xyz:8096/web/index.html#!/home",
 		"description": "Alanzj的影音库",
 		"tags": [
@@ -41,7 +41,7 @@
 	},
 	{
 		"name": "Code Server",
-		"logo": "blob:https://2025-blog-public-hazel-eight.vercel.app/c20c70da-4a71-4dca-8136-85f6c8b5c5f5",
+		"logo": "/images/share/4d8957e9bfce5ecf.webp",
 		"url": "https://alanzj.xyz:8085",
 		"description": "Alanzj的在线代码编辑器",
 		"tags": [
