@@ -8,5 +8,45 @@
 			"工具"
 		],
 		"stars": 3
+	},
+	{
+		"name": "Gitea",
+		"logo": "blob:https://2025-blog-public-hazel-eight.vercel.app/518bd774-47cc-4a99-abdc-ac7d007f7dd1",
+		"url": "https://alanzj.xyz:3000",
+		"description": "Alanzj的代码托管服务",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
+	},
+	{
+		"name": "Emby",
+		"logo": "blob:https://2025-blog-public-hazel-eight.vercel.app/72e81dcf-befd-4810-826c-b7dd8109a22f",
+		"url": "https://alanzj.xyz:8096/web/index.html#!/home",
+		"description": "Alanzj的影音库",
+		"tags": [
+			"影音"
+		],
+		"stars": 3
+	},
+	{
+		"name": "Calibre",
+		"logo": "blob:https://2025-blog-public-hazel-eight.vercel.app/7a73ac7c-5bf9-4161-827f-138c2a9b2044",
+		"url": "https://alanzj.xyz:8083",
+		"description": "Alanzj的书库",
+		"tags": [
+			"书籍"
+		],
+		"stars": 3
+	},
+	{
+		"name": "Code Server",
+		"logo": "blob:https://2025-blog-public-hazel-eight.vercel.app/c20c70da-4a71-4dca-8136-85f6c8b5c5f5",
+		"url": "https://alanzj.xyz:8085",
+		"description": "Alanzj的在线代码编辑器",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
 	}
 ]
